@@ -1,13 +1,13 @@
-package com.poly.lab5;
+package poly.edu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lab5Application {
+public class Java5Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Lab5Application.class, args);
+        SpringApplication.run(Java5Application.class, args);
     }
 
 }
